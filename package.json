@@ -5,7 +5,8 @@
 	"version": "1.0.0",
 	"keywords": ["freecodecamp", "backend", "challenge"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "4.14.0",
 	},
 	"main": "server.js",
 	"scripts": {
